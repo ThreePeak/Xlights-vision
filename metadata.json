@@ -1,0 +1,9 @@
+{
+  "name": "xLights Vision Reverse-Engineer & Recipe Generator",
+  "description": "High-precision computer vision engine for LED holiday light displays. Extracts temporal waveforms, optical flow, and color dynamics across frames to generate exact xLights recipes and XML snippets.",
+  "requestFramePermissions": [
+    "camera",
+    "display-capture"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
